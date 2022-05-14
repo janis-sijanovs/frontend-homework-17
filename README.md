@@ -1,8 +1,7 @@
-# Frontend Homework 16
+# Frontend Homework 17
 
-I have finished my sixteenth homework.
+I have finished my seventeenth homework.
 
-Was tricky.
-Got confused a few times.
-But got through, and I think it's fine.
-Could've spent some extra time on design.
+Didn't have a lot of time to invest.
+Added a page counter
+Fixed a few bugs
